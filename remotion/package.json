@@ -1,0 +1,21 @@
+{
+  "name": "oncall-minstrels-loop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Seamless walking loop of The On-Call Minstrels gameplay, composed with Remotion",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render WalkingLoop ../video/walking_loop.mp4",
+    "still": "remotion still WalkingLoop"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.529",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.529"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.8",
+    "typescript": "5.8.3"
+  }
+}

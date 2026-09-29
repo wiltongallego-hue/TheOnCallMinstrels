@@ -1,0 +1,9 @@
+node_modules/
+remotion/out/
+.loop_work/
+hyperframes/walking-loop/renders/
+hyperframes/walking-loop/snapshots/
+hyperframes/walking-loop/.transcode-cache/
+.DS_Store
+__pycache__/
+*.pyc

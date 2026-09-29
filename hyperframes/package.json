@@ -1,0 +1,14 @@
+{
+  "name": "oncall-minstrels-hyperframes",
+  "version": "1.0.0",
+  "description": "HyperFrames CLI for the On-Call Minstrels videos (projects live in subfolders, e.g. walking-loop/)",
+  "scripts": {
+    "check": "cd walking-loop && hyperframes check",
+    "render": "cd walking-loop && hyperframes render --fps 24 --output ../../video/walking_loop_hyperframes.mp4"
+  },
+  "dependencies": {
+    "gsap": "^3.14.2",
+    "hyperframes": "^0.8.90"
+  },
+  "private": true
+}
