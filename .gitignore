@@ -7,3 +7,4 @@ hyperframes/walking-loop/.transcode-cache/
 .DS_Store
 __pycache__/
 *.pyc
+hyperframes/walking-loop/.hyperframes/
