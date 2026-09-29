@@ -8,6 +8,7 @@ Seamless walking loop of the On-Call Minstrels gameplay clip.
 | --- | --- |
 | `video/walking_loop.mp4` | **Final loop**: 1280×720, 24 fps, 6.75 s, no audio. The last frame flows straight into the first. |
 | `video/walking_loop.gif` | Lightweight preview of the same loop (420 px, 10 fps). |
+| `video/walking_loop_hyperframes.mp4` | The same loop rendered by HyperFrames (frame-identical to the Remotion render). |
 | `video/preview_loop_dissolve.mp4` | First preview (dissolve at the loop point). Kept for comparison. |
 | `assets/source/gemini_generated_video.mp4` | Original clip generated with Gemini: title screen, level, fireworks. |
 
